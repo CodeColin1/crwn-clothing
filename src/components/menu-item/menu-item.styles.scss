@@ -1,6 +1,6 @@
 .menu-item {
   min-width: 30%;
-  height: 240px;
+  height: 350px;
   flex: 1 1 auto;
   display: flex;
   align-items: center;
@@ -9,7 +9,7 @@
   overflow:hidden;
 
   &.large {
-    height:380px;
+    height:500px;
   }
 
   &:first-child {
